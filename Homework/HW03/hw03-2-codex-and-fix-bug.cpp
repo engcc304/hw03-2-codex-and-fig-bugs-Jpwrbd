@@ -1,4 +1,3 @@
-// TODO: #9 Fix bug and arrange code in CODEX pattern.
 #include <stdio.h>
 
 int main()
